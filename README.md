@@ -24,7 +24,7 @@ const whoami = {
     motto: "Built by experience, mastered with AI.",
     location: "Sydney, Australia",
     experience: "30 years",
-    focus: [".NET C#", "Azure & AWS", "React & Angular", "DDD, Clean Architecture", "Microservices", "DevOps & MLOps", "AI"],
+    focus: [".NET C#", "Azure & AWS", "React & Angular", "API & Microservices", "DDD & Clean Architecture", "DevOps & MLOps", "Agentic Workflows"],
     url: "https://iamstevo.co"
 };
 
