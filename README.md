@@ -29,9 +29,9 @@ const whoami = {
 };
 
 const kungfu = {
-    belt: ["powershell", "bash", "dotnet", "git", "gh", "node", "npm", "jfrog", "docker", "kubectl", "az", "terraform", "vault"],
+    belt: ["powershell", "bash", "dotnet", "git", "gh", "ssh", "node", "npm", "jfrog", "docker", "kubectl", "az", "terraform", "vault"],
     loves: ["claude", "pi", "swarms", "tmux", "mercury", "bmad", "gsd", "qmd", "ollama", "openclaw"],
-    postulating: ["notion", "obsidian", "n8n", "nemoclaw"]
+    postulating: ["notion", "obsidian", "qdrant", "n8n", "kilocode", "nemoclaw"]
 };
 ```
 
