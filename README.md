@@ -18,14 +18,14 @@
 ## <img src="https://img.shields.io/badge/about_me-22272E" alt="About Me" />
 ```typescript
 const whoami = {
-    slug: "@stevomccormack", //linkedin, github, youtube
+    slug: "@stevomccormack", //github, linkedin, youtube
     name: "Steve McCormack",
     role: "Principal Engineer, .NET Master, AI Specialist",
     motto: "Built by experience, mastered with AI.",
     location: "Sydney, Australia",
     experience: "30 years",
     focus: [".NET C#", "Azure & AWS", "React & Angular", "DDD, Clean Architecture", "Microservices", "DevOps & MLOps", "AI"],
-    loves: ["claude", "pi", "agents", "swarms", "tmux", "mercury", "openclaw", "bmad", "gsd", "ollama"]
+    loves: ["claude", "pi", "agents", "swarms", "tmux", "mercury", "openclaw", "bmad", "gsd", "ollama", "docker", "terraform"]
 };
 ```
 
@@ -83,6 +83,14 @@ const whoami = {
           <img src="https://img.shields.io/badge/100%25-green" alt="100%" />
         </p>
         <p><small><b>Works with:</b><br/>All agents using BRAIN (docs)<br />Claude Code, GitHub Copilot, Gemini, Cursor, PI and Windsurf</small></p>
+        <p>
+          <img src="https://img.shields.io/badge/ai-black" alt="AI" />
+          <img src="https://img.shields.io/badge/agents-magenta" alt="Agents" />
+          <img src="https://img.shields.io/badge/teams-magenta" alt="Teams" />
+          <img src="https://img.shields.io/badge/worfklows-magenta" alt="Workflows" />
+          <img src="https://img.shields.io/badge/skills-magenta" alt="Skills" />
+          <img src="https://img.shields.io/badge/commands-magenta" alt="Commands" />
+        </p>
         <a href="https://github.com/stevomccormack/pineguard">
           <img src="https://img.shields.io/badge/View_Project-000000?style=social&logo=github&logoSize=auto" alt="View PineGuard" />
         </a>
