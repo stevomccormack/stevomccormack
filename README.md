@@ -25,7 +25,13 @@ const whoami = {
     location: "Sydney, Australia",
     experience: "30 years",
     focus: [".NET C#", "Azure & AWS", "React & Angular", "DDD, Clean Architecture", "Microservices", "DevOps & MLOps", "AI"],
-    loves: ["claude", "pi", "agents", "swarms", "tmux", "mercury", "openclaw", "bmad", "gsd", "ollama", "docker", "terraform"]
+    url: "https://iamstevo.co"
+};
+
+const kungfu = {
+    belt: ["powershell", "bash", "dotnet", "git", "gh", "node", "npm", "jfrog", "docker", "kubectl", "az", "terraform", "vault"],
+    loves: ["claude", "pi", "swarms", "tmux", "mercury", "bmad", "gsd", "qmd", "ollama", "openclaw"],
+    postulating: ["notion", "obsidian", "n8n"]
 };
 ```
 
