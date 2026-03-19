@@ -18,24 +18,14 @@
 ## <img src="https://img.shields.io/badge/about_me-22272E" alt="About Me" />
 ```typescript
 const whoami = {
+    slug: "@stevomccormack", //linkedin, github, youtube
     name: "Steve McCormack",
     role: "Principal Engineer, .NET Master, AI Specialist",
-    motto: "Built with experience. Mastered by AI.",
+    motto: "Built by experience, mastered with AI.",
     location: "Sydney, Australia",
     experience: "30 years",
     focus: [".NET C#", "Azure & AWS", "React & Angular", "DDD, Clean Architecture", "Microservices", "DevOps & MLOps", "AI"],
-    social: "@stevomccormack",
-    linkedin: "https://linkedin.com/in/stevomccormack",
-    meta: {
-      tags: ["#dotnet", "#csharp", "#azure", "#aws", "#react", "#angular", "#github", "#ai"],
-      ai: {
-        assistants: ["claude", "copilot", "gemini", "openai"],
-        models: ["opus", "sonnet", "gemini", "gpt", "mercury", "deepseek", "qwen" ],
-        editors: ["code", "antigravity", "cursor", "pi"],
-        tools: ["swarms", "tmux", "openclaw", "nemoclaw", "bmad", "gsd", "ollama", "openrouter"],
-        inspired: true
-      }
-    }
+    loves: ["claude", "pi", "agents", "swarms", "tmux", "mercury", "openclaw", "bmad", "gsd", "ollama"]
 };
 ```
 
@@ -47,19 +37,43 @@ const whoami = {
     <td width="50%" valign="top">    
       <div align="center">
         <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Evergreen%20Tree.png" alt="Evergreen Tree" width="26" align="center" /> PineGuard </h2>
-        <p>A .NET validation library<br/><em>Built by AI, made for engineers</em></p>
+        <p><b>.NET (C#) validation library</b><br/><em>Built for simplicity, mastered by AI</em></p>
         <p>
           <img src="https://img.shields.io/badge/.net-black" alt=".NET 8.0+" />
           <img src="https://img.shields.io/badge/8.0+_-orange" alt="8+" />
           <img src="https://img.shields.io/badge/.net_standard-black" alt=".NET Standard 2.1" />
           <img src="https://img.shields.io/badge/2.1-0000FF " alt="2.1" />
+          <img src="https://img.shields.io/badge/ai-black" alt="AI" />
+          <img src="https://img.shields.io/badge/all-magenta" alt="All" />
         </p>
         <p>
-          <img src="https://img.shields.io/badge/rules-black" alt="Rules" />
-          <img src="https://img.shields.io/badge/guards-black" alt="Guards" />
-          <img src="https://img.shields.io/badge/fluent_validation-black" alt="FluentValidation" />
-          <img src="https://img.shields.io/badge/data_annotations-black" alt="DataAnnotations" />
+          <img src="https://img.shields.io/badge/rules-gray" alt="Rules" />
+          <img src="https://img.shields.io/badge/guards-gray" alt="Guards" />
+          <img src="https://img.shields.io/badge/fluent_validation-gray" alt="FluentValidation" />
+          <img src="https://img.shields.io/badge/annotations-gray" alt="DataAnnotations" />
+          <br/>
+          <img src="https://img.shields.io/badge/tools-gray" alt="Tools" />
+          <img src="https://img.shields.io/badge/utilities-gray" alt="Utils" />
         </p>
+        <p>
+          <img src="https://img.shields.io/badge/iso-black" alt="ISO" />
+          <img src="https://img.shields.io/badge/dates-green" alt="Dates" />
+          <img src="https://img.shields.io/badge/countries-green" alt="Countries" />
+          <img src="https://img.shields.io/badge/currencies-green" alt="Currencies" />
+          <img src="https://img.shields.io/badge/languages-green" alt="Languages" />
+          <img src="https://img.shields.io/badge/payments-green" alt="Payments" />
+          <img src="https://img.shields.io/badge/subdivisions-green" alt="Subdivisions" />
+          <img src="https://img.shields.io/badge/scripts-green" alt="Scripts" />
+          <br />
+          <img src="https://img.shields.io/badge/timezones-black" alt="Timezones" />
+          <img src="https://img.shields.io/badge/windows-yellow" alt="Windows" />
+          <img src="https://img.shields.io/badge/unix-yellow" alt="Unix" />
+          <img src="https://img.shields.io/badge/itu-black" alt="ITU" />
+          <img src="https://img.shields.io/badge/callingcodes-orange" alt="Calling Codes" />
+        </p>
+        <p><b>Perfect for:</b><br/>- DDD, Clean Architecture, APIs and Microservices</p>
+        <p><b>Tools for:</b><br/>- Code Inspection (Roslyn, Qodana), Coverage (Xplat, DotCover), Scan (SonarQube)</p>
+        <p><b>Skills for:</b><br/>- Claude Code, GitHub Copilot, Gemini, Cursor, PI and Windsurf</p>
         <a href="https://github.com/stevomccormack/pineguard">
           <img src="https://img.shields.io/badge/View_Project-000000?style=social&logo=github&logoSize=auto" alt="View PineGuard" />
         </a>
@@ -68,7 +82,7 @@ const whoami = {
     <td width="50%" valign="top">
       <div align="center">
         <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="26" align="center" /> Onboarding</h2>
-        <p>PowerShell onboarding library <br/><em>Fast-track dev onboarding environments</em></p>
+        <p><b>PowerShell onboarding library</b><br/><em>Fast-track dev onboarding environments</em></p>
         <p>
           <img src="https://img.shields.io/badge/powershell-black" alt="PowerShell" />
           <img src="https://img.shields.io/badge/8.0+_-orange" alt="8+" />
