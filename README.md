@@ -55,6 +55,8 @@ const whoami = {
           <img src="https://img.shields.io/badge/tools-gray" alt="Tools" />
           <img src="https://img.shields.io/badge/utilities-gray" alt="Utils" />
         </p>
+      </div>  
+      <div align="center">
         <p>
           <img src="https://img.shields.io/badge/iso-black" alt="ISO" />
           <img src="https://img.shields.io/badge/dates-green" alt="Dates" />
@@ -63,7 +65,6 @@ const whoami = {
           <img src="https://img.shields.io/badge/languages-green" alt="Languages" />
           <img src="https://img.shields.io/badge/payments-green" alt="Payments" />
           <img src="https://img.shields.io/badge/subdivisions-green" alt="Subdivisions" />
-          <img src="https://img.shields.io/badge/scripts-green" alt="Scripts" />
           <br />
           <img src="https://img.shields.io/badge/timezones-black" alt="Timezones" />
           <img src="https://img.shields.io/badge/windows-yellow" alt="Windows" />
@@ -71,9 +72,17 @@ const whoami = {
           <img src="https://img.shields.io/badge/itu-black" alt="ITU" />
           <img src="https://img.shields.io/badge/callingcodes-orange" alt="Calling Codes" />
         </p>
-        <p><b>Perfect for:</b><br/>- DDD, Clean Architecture, APIs and Microservices</p>
-        <p><b>Tools for:</b><br/>- Code Inspection (Roslyn, Qodana), Coverage (Xplat, DotCover), Scan (SonarQube)</p>
-        <p><b>Skills for:</b><br/>- Claude Code, GitHub Copilot, Gemini, Cursor, PI and Windsurf</p>
+        <p><small><b>Perfect for:</b><br/>DDD, Clean Architecture, APIs and Microservices</small></p>
+        <p><small><b>Tools for:</b><br/>Code Inspection, Code Coverage, Code Scanner<br/>(Roslyn, Qodana, Xplat, DotCover, SonarQube)</small></p> 
+        <p>
+          <img src="https://img.shields.io/badge/coverage-black" alt="Coverage" />
+          <img src="https://img.shields.io/badge/100%25-green" alt="100%" />
+         <img src="https://img.shields.io/badge/inspection-black" alt="Inspection" />
+          <img src="https://img.shields.io/badge/100%25-green" alt="100%" />
+         <img src="https://img.shields.io/badge/scan-black" alt="Scan" />
+          <img src="https://img.shields.io/badge/100%25-green" alt="100%" />
+        </p>
+        <p><small><b>Works with:</b><br/>All agents using BRAIN (docs)<br />Claude Code, GitHub Copilot, Gemini, Cursor, PI and Windsurf</small></p>
         <a href="https://github.com/stevomccormack/pineguard">
           <img src="https://img.shields.io/badge/View_Project-000000?style=social&logo=github&logoSize=auto" alt="View PineGuard" />
         </a>
