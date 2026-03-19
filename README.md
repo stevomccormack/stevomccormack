@@ -31,7 +31,7 @@ const whoami = {
 const kungfu = {
     belt: ["powershell", "bash", "dotnet", "git", "gh", "node", "npm", "jfrog", "docker", "kubectl", "az", "terraform", "vault"],
     loves: ["claude", "pi", "swarms", "tmux", "mercury", "bmad", "gsd", "qmd", "ollama", "openclaw"],
-    postulating: ["notion", "obsidian", "n8n"]
+    postulating: ["notion", "obsidian", "n8n", "nemoclaw"]
 };
 ```
 
