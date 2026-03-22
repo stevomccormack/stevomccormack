@@ -79,7 +79,7 @@ const kungfu = {
           <img src="https://img.shields.io/badge/callingcodes-orange" alt="Calling Codes" />
         </p>
         <p><small><b>Perfect for:</b><br/>DDD, Clean Architecture, APIs and Microservices</small></p>
-        <p><small><b>Tools for:</b><br/>Code Inspection, Code Coverage, Code Scanner<br/>(Roslyn, Qodana, Xplat, DotCover, SonarQube)</small></p> 
+        <p><small><b>Tools for:</b><br/>Code Inspection, Code Coverage, Code Scanner<br/>(Roslyn, Qodana, Xplat, SonarQube)</small></p> 
         <p>
           <img src="https://img.shields.io/badge/coverage-black" alt="Coverage" />
           <img src="https://img.shields.io/badge/100%25-green" alt="100%" />
