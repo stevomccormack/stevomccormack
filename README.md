@@ -35,7 +35,7 @@ const kungfu = {
 };
 ```
 
-## <img src="https://img.shields.io/badge/feature_projects-22272E" alt="Feature Software" />
+## <img src="https://img.shields.io/badge/feature_software-22272E" alt="Feature Software" />
 
 <div align="center">
 <table>
@@ -130,7 +130,7 @@ const kungfu = {
 </div>
 ```
 
-## <img src="https://img.shields.io/badge/feature_projects-22272E" alt="Creative Showcases" />
+## <img src="https://img.shields.io/badge/creative_showcase-22272E" alt="Creative Showcase" />
 
 <div align="center">
 <table>
