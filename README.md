@@ -35,7 +35,7 @@ const kungfu = {
 };
 ```
 
-## <img src="https://img.shields.io/badge/feature_projects-22272E" alt="Feature Projects" />
+## <img src="https://img.shields.io/badge/feature_projects-22272E" alt="Feature Software" />
 
 <div align="center">
 <table>
@@ -126,6 +126,14 @@ const kungfu = {
       </div>
     </td>
   </tr>
+</table>
+</div>
+```
+
+## <img src="https://img.shields.io/badge/feature_projects-22272E" alt="Creative Showcases" />
+
+<div align="center">
+<table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -158,7 +166,7 @@ const kungfu = {
           </a>
         </p>
         <a href="https://gist.github.com/stevomccormack/6a17a6e8c6765ec445fe226ab45a0662">
-          <img src="https://img.shields.io/badge/View_Project-000000?style=social&logo=github&logoSize=auto" alt="View Bahrain Endurance 13" />
+          <img src="https://img.shields.io/badge/View_Gist-000000?style=social&logo=github&logoSize=auto" alt="View Bahrain Endurance 13" />
         </a>
       </div>
     </td>
