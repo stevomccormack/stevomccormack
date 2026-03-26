@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving" width="32" /> Hi there, I'm **Steve McCormack** 
+# 👋 Hi there, I'm **Steve McCormack** 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&height=100&lines=%E2%9C%A8+Top+Talent+/+Principal+Engineer;%E2%9A%A1+.NET%2C+Cloud+%26+React+Specialist;%F0%9F%A7%A9+APIs+%26+Microservices;%F0%9F%93%A6+DDD%2C+Clean+Architecture;%F0%9F%A4%96+AI-Powered+Engineering;%F0%9F%9A%80+30%2B+Years+Building+Systems" alt="Steve McCormack" />
 
@@ -125,6 +125,44 @@ const kungfu = {
         </a>
       </div>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h2>👑 Bahrain Victorious 13</h2>
+        <p><b>Digital branding showcase</b><br/><em>Creative direction and brand assets</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/branding-black" alt="Branding" />
+          <img src="https://img.shields.io/badge/digital-magenta" alt="Digital" />
+          <img src="https://img.shields.io/badge/creative-black" alt="Creative" />
+          <img src="https://img.shields.io/badge/showcase-00FFFF" alt="Showcase" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/identity-gray" alt="Identity" />
+          <img src="https://img.shields.io/badge/campaign-gray" alt="Campaign" />
+          <img src="https://img.shields.io/badge/assets-gray" alt="Assets" />
+          <img src="https://img.shields.io/badge/portfolio-gray" alt="Portfolio" />
+        </p>
+        <p>
+          <a href="https://bahrainvictorious13.com">
+            <img src="https://img.shields.io/badge/-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+          </a>
+          <a href="https://www.youtube.com/BahrainVictorious13">
+            <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+          </a>
+          <a href="https://instagram.com/bahrainvictorious13">
+            <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+          </a>
+          <a href="https://x.com/bahrainvic13">
+            <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+          </a>
+        </p>
+        <a href="https://gist.github.com/stevomccormack/6a17a6e8c6765ec445fe226ab45a0662">
+          <img src="https://img.shields.io/badge/View_Project-000000?style=social&logo=github&logoSize=auto" alt="View Bahrain Endurance 13" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 </div>
