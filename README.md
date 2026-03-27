@@ -9,9 +9,9 @@
 
 <div align="center">
 
-# 👋 Hi there, I'm **Steve McCormack** 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="36" height="36" align="center" /> Hi there, I'm **Steve McCormack** 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&height=100&lines=%E2%9C%A8+Top+Talent+/+Principal+Engineer;%E2%9A%A1+.NET%2C+Cloud+%26+React+Specialist;%F0%9F%A7%A9+APIs+%26+Microservices;%F0%9F%93%A6+DDD%2C+Clean+Architecture;%F0%9F%A4%96+AI-Powered+Engineering;%F0%9F%9A%80+30%2B+Years+Building+Systems" alt="Steve McCormack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&height=120&lines=%E2%9C%A8+Top+Talent+/+Principal+Engineer;%E2%9A%A1+.NET%2C+Cloud+%26+React+Specialist;%F0%9F%A7%A9+APIs+%26+Microservices;%F0%9F%93%A6+DDD%2C+Clean+Architecture;%F0%9F%A4%96+AI-Powered+Engineering;%F0%9F%9A%80+30%2B+Years+Building+Systems" alt="Steve McCormack" />
 
 </div>
 
@@ -42,7 +42,7 @@ const kungfu = {
   <tr>
     <td width="50%" valign="top">    
       <div align="center">
-        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Evergreen%20Tree.png" alt="Evergreen Tree" width="26" align="center" /> PineGuard </h2>
+        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" width="26" height="25" align="center" /> PineGuard </h2>
         <p><b>.NET (C#) validation library</b><br/><em>Built for simplicity, mastered by AI</em></p>
         <p>
           <img src="https://img.shields.io/badge/.net-black" alt=".NET 8.0+" />
@@ -104,7 +104,7 @@ const kungfu = {
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="26" align="center" /> Onboarding</h2>
+        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" height="25" align="center" /> Onboarding</h2>
         <p><b>PowerShell onboarding library</b><br/><em>Fast-track dev onboarding environments</em></p>
         <p>
           <img src="https://img.shields.io/badge/powershell-black" alt="PowerShell" />
@@ -128,18 +128,19 @@ const kungfu = {
   </tr>
 </table>
 </div>
-```
+
 
 ## <img src="https://img.shields.io/badge/creative_portfolio-22272E" alt="Creative Portfolio" />
 
-World-class brands don't build themselves. Every identity here was crafted from scratch — and every one went on to dominate their industry.
+<p><b>World-class brands don't build themselves.</b><br />
+Every identity here was built from scratch to help ambitious brands<br />stand apart, scale up, and lead with confidence.</p>
 
 <div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h2>👑 Bahrain Victorious 13</h2>
+        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="26" height="26" align="top" /> Bahrain Victorious 13</h2>
         <p><b>Royal Branding Project</b><br/><em>Global launch, world elite endurance sports.</em></p>
         <p>
           <img src="https://img.shields.io/badge/branding-black" alt="Branding" />
@@ -175,8 +176,8 @@ World-class brands don't build themselves. Every identity here was crafted from 
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h2>🎯 Brands for Giants</h2>
-        <p><b>Industry Leading Brands</b><br/><em>Logo design &amp; branding for industry giants.</em></p>
+        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25" height="25" align="center" /> Giant Brands</h2>
+        <p><b>Industry Leading Brands</b><br/><em>Logo design &amp; branding to lead with confidence.</em></p>
         <p>
           <img src="https://img.shields.io/badge/branding-black" alt="Branding" />
           <img src="https://img.shields.io/badge/logo_design-green" alt="Logo Design" />
