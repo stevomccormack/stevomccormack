@@ -130,7 +130,9 @@ const kungfu = {
 </div>
 ```
 
-## <img src="https://img.shields.io/badge/creative_showcase-22272E" alt="Creative Showcase" />
+## <img src="https://img.shields.io/badge/creative_portfolio-22272E" alt="Creative Portfolio" />
+
+World-class brands don't build themselves. Every identity here was crafted from scratch — and every one went on to dominate their industry.
 
 <div align="center">
 <table>
@@ -138,39 +140,60 @@ const kungfu = {
     <td width="50%" valign="top">
       <div align="center">
         <h2>👑 Bahrain Victorious 13</h2>
-        <p><b>Digital branding showcase</b><br/><em>Creative direction and brand assets</em></p>
+        <p><b>Royal Branding Project</b><br/><em>Global launch, world elite endurance sports.</em></p>
         <p>
           <img src="https://img.shields.io/badge/branding-black" alt="Branding" />
-          <img src="https://img.shields.io/badge/digital-magenta" alt="Digital" />
-          <img src="https://img.shields.io/badge/creative-black" alt="Creative" />
-          <img src="https://img.shields.io/badge/showcase-00FFFF" alt="Showcase" />
+          <img src="https://img.shields.io/badge/identity-CE1126" alt="Identity" />
+          <img src="https://img.shields.io/badge/sector-black" alt="Sector" />
+          <img src="https://img.shields.io/badge/sport-CE1126" alt="Sport" />
         </p>
         <p>
           <img src="https://img.shields.io/badge/identity-gray" alt="Identity" />
-          <img src="https://img.shields.io/badge/campaign-gray" alt="Campaign" />
-          <img src="https://img.shields.io/badge/assets-gray" alt="Assets" />
-          <img src="https://img.shields.io/badge/portfolio-gray" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/logo-gray" alt="Logo" />
+          <img src="https://img.shields.io/badge/brand-gray" alt="Brand" />
+          <img src="https://img.shields.io/badge/social-gray" alt="Social" />
+          <img src="https://img.shields.io/badge/website-gray" alt="Website" />
         </p>
         <p>
           <a href="https://bahrainvictorious13.com">
-            <img src="https://img.shields.io/badge/-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+            <img src="https://img.shields.io/badge/Website-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
           </a>
           <a href="https://www.youtube.com/BahrainVictorious13">
-            <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
           </a>
           <a href="https://instagram.com/bahrainvictorious13">
-            <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
           </a>
           <a href="https://x.com/bahrainvic13">
-            <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+            <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
           </a>
         </p>
         <a href="https://gist.github.com/stevomccormack/6a17a6e8c6765ec445fe226ab45a0662">
-          <img src="https://img.shields.io/badge/View_Gist-000000?style=social&logo=github&logoSize=auto" alt="View Bahrain Endurance 13" />
+          <img src="https://img.shields.io/badge/View_Showcase-000000?style=social&logo=github&logoSize=auto" alt="View Showcase" />
         </a>
       </div>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h2>🎯 Brands for Giants</h2>
+        <p><b>Industry Leading Brands</b><br/><em>Logo design &amp; branding for industry giants.</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/branding-black" alt="Branding" />
+          <img src="https://img.shields.io/badge/logo_design-green" alt="Logo Design" />
+          <img src="https://img.shields.io/badge/size-black" alt="Social Design" />
+          <img src="https://img.shields.io/badge/giants-green" alt="Digital Assets" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/logo-gray" alt="Logo" />
+          <img src="https://img.shields.io/badge/colours-gray" alt="Colours" />
+          <img src="https://img.shields.io/badge/typography-gray" alt="Typography" />
+          <img src="https://img.shields.io/badge/brand_guides-gray" alt="Brand Guides" />
+        </p>
+        <a href="https://gist.github.com/stevomccormack/88c5135f76dcbaab4d1b1c7f42af7afb">
+          <img src="https://img.shields.io/badge/View_Showcase-000000?style=social&logo=github&logoSize=auto" alt="View Showcase" />
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 </div>
